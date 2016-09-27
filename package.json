@@ -1,0 +1,11 @@
+{
+  "name": "find_country",
+  "version": "1.0.0",
+  "description": "A command line app to find country name based on users input data(latitude and longitude)",
+  "main": "find_country.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zafar Saleem",
+  "license": "ISC"
+}
