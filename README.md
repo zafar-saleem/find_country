@@ -10,9 +10,9 @@ Below is the stack used in this project. Please follow the getting started secti
 ## Getting started
 In order to run this project in the browser successfully, please follow the steps below!
 ````
-	1. Clone this repository.
-	2. CD to  folder.
-    3. Execute `node find_country.js`
+ 1. Clone this repository.
+ 2. CD to  folder.
+ 3. Execute `node find_country.js`
 ````
 
 ## Sample Input
